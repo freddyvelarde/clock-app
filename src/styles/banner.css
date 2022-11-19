@@ -1,11 +1,47 @@
 #banner {
-  /* background-image: url("../assets/forest-day.jpg"); */
-  /* background-color: #009688; */
   background-attachment: fixed;
   background-position: center;
   background-size: cover;
   background-repeat: no-repeat;
   position: relative;
-  min-height: 100vh;
-  widows: 100%;
+  height: 80vh;
+  padding: 10vh 15%;
+  display: grid;
+}
+
+.greeting__card {
+  /* background-color: red; */
+  display: flex;
+  align-items: center;
+}
+.greeting__card img {
+  width: 25px;
+  height: 25px;
+}
+.greeting__card h2 {
+  margin-left: 10px;
+  font-size: 20px;
+  text-transform: uppercase;
+}
+
+#clock {
+  font-size: 100px;
+}
+
+@media screen and (max-width: 750px) {
+  #banner {
+    padding: 10vh 5%;
+  }
+  #clock {
+    font-size: 75px;
+  }
+}
+
+@media screen and (max-width: 500px) {
+  #clock {
+    font-size: 60px;
+  }
+  .greeting__card h2 {
+    font-size: 15px;
+  }
 }

@@ -4,6 +4,6 @@ export default function getCurrentHour(element) {
     let currentHour = now
       .toLocaleString("en-US", { hour12: false })
       .split(", ")[1];
-    element.innerHTML = `<h1>${currentHour}</h1>`;
+    element.innerHTML = `${currentHour}`;
   }, 1000);
 }
