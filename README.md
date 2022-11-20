@@ -23,4 +23,4 @@ Link challenge: https://www.frontendmentor.io/challenges/clock-app-LMFaxFwrM
 
 ## Day Desktop
 
-![image](./src/assets/dark-desktop.png)
+![image](./src/assets/day-desktop.png)
