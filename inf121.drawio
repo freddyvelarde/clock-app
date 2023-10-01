@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-10-01T01:46:37.054Z" agent="Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/115.0" etag="V7KLup7EAjFU3tq5Ethe" version="22.0.0" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2023-10-01T02:06:14.886Z" agent="Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/115.0" etag="2Op5MFD7XYQl279mGjdx" version="22.0.0" type="github" pages="4">
   <diagram name="proyecto" id="rWFAseFCUA5T3jen3-Zc">
     <mxGraphModel dx="1110" dy="428" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -167,7 +167,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="rM1Qb2vFUjQn7Hu5_-9E" name="pilaDistritoPilaZona4">
-    <mxGraphModel dx="1306" dy="504" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="634" dy="245" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -207,17 +207,21 @@
         <mxCell id="BwPf4WzSona4VvDzey_o-6" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&lt;b&gt;PilaZonas&lt;/b&gt;&lt;br&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;- tope: int&lt;br&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;+ Pila()&lt;br&gt;+ esVacia()&lt;br&gt;+ esLlena()&lt;br&gt;+ adi(elem)&lt;br&gt;+ eli()&lt;br&gt;+ nroElem()&lt;br&gt;+ llenar(n)&lt;br&gt;+ mostrar()&lt;br&gt;+ vaciar(p)&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;&lt;br&gt;&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="400" y="600" width="120" height="200" as="geometry" />
         </mxCell>
-        <mxCell id="BwPf4WzSona4VvDzey_o-13" value="" style="endArrow=open;html=1;endSize=12;startArrow=diamondThin;startSize=14;startFill=0;edgeStyle=orthogonalEdgeStyle;align=left;verticalAlign=bottom;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="BwPf4WzSona4VvDzey_o-3">
-          <mxGeometry x="-1" y="3" relative="1" as="geometry">
-            <mxPoint x="134.57999999999998" y="490" as="sourcePoint" />
-            <mxPoint x="135" y="590" as="targetPoint" />
+        <mxCell id="TZZtKSFgAFE_QsxTa6YG-1" value="" style="endArrow=none;html=1;edgeStyle=orthogonalEdgeStyle;rounded=0;exitX=0.406;exitY=1.03;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.438;entryY=-0.016;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="BwPf4WzSona4VvDzey_o-3">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="131.50999999999996" y="490.01000000000005" as="sourcePoint" />
+            <mxPoint x="130.43000000000004" y="593.46" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="130" y="490" />
+              <mxPoint x="130" y="542" />
+            </Array>
           </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
   <diagram id="NtnEYVmwq7tgct6WHvEO" name="ZonasTemperatura5">
-    <mxGraphModel dx="529" dy="204" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="925" dy="357" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
